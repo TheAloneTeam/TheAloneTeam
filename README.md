@@ -21,12 +21,12 @@
 
 ###  GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashik-team&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aloneteam-Hacker&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 
 ---
 
 <p align="center">
-  💖 <b>Made with Love by Aashik-team</b> 💖
+  💖 <b>Made with Love by 𝚨Łꪮⲛ𝛆 🚩𝗧ε᧘‌ᴍ | 𝐇αᴄκε𝐫</b> 💖
 </p>
