@@ -21,7 +21,7 @@
 
 ###  GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aloneteam-Hacker&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAloneTeam&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 
